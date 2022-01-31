@@ -1,0 +1,9 @@
+name: py37
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - jupyter
+prefix: /Users/asmunroh/opt/anaconda3/envs/py37
